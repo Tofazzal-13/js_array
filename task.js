@@ -17,6 +17,20 @@ touristDestination.pop()
 console.log(touristDestination);
  */
 
+// task 3
+
+/* const book = ["jsScript","php","laravel","c+="]
+console.log(book.includes("jsScript")); */
+
+
+// task 4
+
+const nums1 = [1,22,14,26,27,52];
+const nums2 = [98,52,23,42,15,25];
+console.log(nums1.concat(nums2));
+
+
+
 
 
 
