@@ -48,7 +48,17 @@ for(let splitS of splitStatement){
 }
 
 const newSentence = newStatement.join(" ")
-console.log(newSentence);
+// console.log(newSentence);
+
+// task 5
+
+const input = [1,2,3];
+const newInput = [...input]
+newInput[0] = 99
+console.log("Orginal:",input,"Copy:",newInput);
+
+
+
     
 
 
